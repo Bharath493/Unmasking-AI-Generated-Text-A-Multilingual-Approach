@@ -1,3 +1,5 @@
 Large Language Models (LLMs) are becoming increasingly mainstream and accessible, leading to an explosion of machine-generated content across various domains, including news, social media, question-answering platforms, education, and academia. Advanced LLMs, such as ChatGPT and GPT-4, produce highly fluent and contextually relevant responses to a wide range of user queries. While this capability makes LLMs appealing for automating tasks traditionally performed by humans, it also raises concerns about their potential misuse, such as disseminating misinformation and disrupting educational systems.
 
 Given that humans often perform only marginally better than chance in distinguishing between machine-generated and human-written text, there is a critical need for automatic systems capable of identifying machine-generated content. In this project, we aim to investigate whether a machine learning model can be effectively trained to accurately differentiate between human-generated and machine-generated texts, with the goal of mitigating the risks associated with their misuse.
+
+In this I have trained multiple models and evaluated them against the model Ghostbusters.  
